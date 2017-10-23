@@ -2,7 +2,7 @@ Attribute VB_Name = "Module1"
 Sub SNPidentito2P()
 '
 ' SNPidentito2P Macro
-'
+' Ceci est très basique
 
 ' Selection des plaques et attribution des variables
 
